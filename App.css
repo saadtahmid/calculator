@@ -1,0 +1,40 @@
+.normal {
+  background: rgb(65, 65, 65);
+  border: 1px solid black;
+  height: 65px;
+}
+.normal:hover {
+  color: black;
+  border: 2px solid white;
+}
+.result {
+  background: rgb(21, 10, 87);
+  border: 1px solid black;
+  height: 130px;
+}
+.reset {
+  background: rgb(136, 23, 23);
+  border: 1px solid black;
+  height: 65px;
+}
+.result:hover {
+  color: black;
+  border: 2px solid white;
+}
+.reset:hover {
+  color: black;
+  border: 2px solid white;
+}
+.resultDisplay {
+  font-size: 15px;
+  color: orangered;
+  background-color: black;
+  word-wrap: break-word;
+  font-family: "Orbitron";
+}
+.display {
+  font-size: 20px;
+  background-color: black;
+  word-wrap: break-word;
+  font-family: "Orbitron";
+}
